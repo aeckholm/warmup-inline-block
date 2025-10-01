@@ -10,12 +10,13 @@ html{
 }
 
 .room-list{
-    font-family:serif;
+    font-family:"Barriecito";
     color:blueviolet;
 
 }
 
 .house-item{
+    font-family: "Schoolbell";
     border-style: solid;
     border-width: 2px;
     border-color:black; 
